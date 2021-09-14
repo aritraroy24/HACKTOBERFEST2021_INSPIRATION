@@ -21,7 +21,7 @@
 2. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST_INSPIRATION/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Your Inspirational Quote**, **Institution** and **Email Id**).</br>
 3. 🎯Done! You are ready to create your first **Pull Request**.</br>
 
-💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
+💥💥💥 ```Some Have Been Done For You As Example``` </br></br>
 <p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
  
 *	```No Missing Details```
