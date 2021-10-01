@@ -6,3 +6,5 @@
 |4           |Priyansh Tripathi       |PriyanshTri          |<img src="./Photos/PriyanshTri.jpg" width="100" />                          |“First, solve the problem. Then, write the code.”                  |GLA university                                       |priyanshtripathi007@gmail.com          |
 |5           |Sayok Dey Majumder      |NeilSayok            |<img src="./Photos/NeilSayok.jpg" width="100" />                            |“Fix the cause, not the symptom.”                                  |University Of Engineering and Management, Kolkata    |sayokdeymajumder1998@gmail.com         |
 |6           |Erikh Domingues      |erikhlp           |<img src="./Photos/erikhlp.jpg" width="100" />                            |“No rain, no rainbow”                                  |University Of Computer Science, UniRitter    |domingueserikh@gmail.com      |
+|7           |Rahul Soni      |RahulSoni0          |<img src="./Photos/RahulSoni0.jpeg" width="100" />                            |“everything happens for a cause or good reason”                                  |National institute Of Technology , Jamshedpur    |rahul.kumar.soni2511@gmail.com      |
+
