@@ -8,3 +8,6 @@
 |6           |Erikh Domingues      |erikhlp           |<img src="./Photos/erikhlp.jpg" width="100" />                            |“No rain, no rainbow”                                  |University Of Computer Science, UniRitter    |domingueserikh@gmail.com      |
 |7           |Rahul Soni      |RahulSoni0          |<img src="./Photos/RahulSoni0.jpeg" width="100" />                            |“everything happens for a cause or good reason”                                  |National institute Of Technology , Jamshedpur    |rahul.kumar.soni2511@gmail.com      |
 |8           |Aritra Roy      |AriCompChem          |<img src="./Photos/aritra.jpg" width="100" />                            |“Anyone who is not shocked by the quantum theory has not understood it.”                                  |CIS Laboratory, Pondicherry University    |aritraroy24@gmail.com      |
+
+|9           |Vishal Vishwakarma      |vishalvishw10         |<img src="./Photos/Vishal.jpg" width="100" />                          |“Every moment is a fresh beginning.”
+                          |Axis Institute of Technology And Management                              |vishalvishw10@gmail.com                  |
