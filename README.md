@@ -14,6 +14,7 @@
 </br>
 
 
+
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Possibly it is the simplest repo to get your Hacktoberfest2021 T-Shirt. Just give your **```Profile Details```**, **```Photo```** and **```Inspirationa Quote Behind Your Journey```** in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST_INSPIRATION/tree/master/Contributors.md) file and send your first PR. 🎯 </br>
 ## Just 3 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
 
@@ -23,7 +24,7 @@
 
 💥💥💥 ```Some Have Been Done For You As Example``` </br></br>
 <p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
- 
+
 *	```No Missing Details```
 *	[```Follow @aritraroy24```](https://github.com/aritraroy24/)
 *	```Star & Fork the Repository```</br>
@@ -148,4 +149,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# 😎🙏  Thanks to Our Awesome [Contributors](https://github.com/AriCompChem/HACKTOBERFEST2021_INSPIRATION/blob/main/Contributors.md)  🙏😎
+# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/AriCompChem/HACKTOBERFEST2021_INSPIRATION/blob/main/Contributors.md) 🙏😎
