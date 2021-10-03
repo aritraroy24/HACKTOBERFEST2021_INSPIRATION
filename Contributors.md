@@ -15,3 +15,4 @@
 |13            |Raj Kumawat    |rajkumawat01           |<img src="./Photos/rajkumawat01.jpg" width="100" /> |“Do good and good will come to you.” |Pimpri Chinchwad college of Engineering  |raj.s.kumawat37@gmail.com   |
 |14            |Kirti Singla    |codesanat142            |<img src="./Photos/github Kirti_pic.jpg" width="100" /> |“Keep smiling always” |Indian Institute of Information Technology Allahabad  |singla.kirti2002@gmail.com   |
 |15            |Saiyam Verma    |Saiyam7404            |<img src="./Photos/github Saiyam7404.jpg" width="100" /> |“You do not find the happy life. You make it.” |Thapar University,Patiala  |saiyamverma722@gmail.com   |
+|16           |Hector Quemada      |hdquemada            |<img src="./Photos/hdquemada.jpg" width="100" />                            |“It is better to light one small candle than curse the darkness.”                                  |Western Michigan University    |hdquemada@gmail.com         |
