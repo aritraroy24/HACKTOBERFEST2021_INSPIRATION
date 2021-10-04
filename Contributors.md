@@ -24,4 +24,4 @@
 |22 |Jared Clayborn | JaredsCode |<img src="./photos/JaredsCode.jpg" width="100" /> | "Form follows function. Don't force it" | N/A | jared.clayborn@gmail.com |
 |23         |Raja Sethi         |RAJASETHI            |<img src="./Photos/RAJASETHI.jpg" width="100" />                            |"Live your life to the fullest"   |LNMIIT |rajasethi056@gmail.com  |
 |24          |Roch Roger              |rochroger         |<img src="" />                                                                 |“Want to shine, first burn like sun” |MUET         |rochroger2@gmail.com
-|25          |Sumit Singh Rawat             |Sumit24-prog         |<img src="./photos/Sumit24-prog.png" width="100" />                                                                 |“Keep Going Everything you nedd will come to you at perfect time” |NA         |rawatsingh2112singh@gmail.com
+|25          |Sumit Singh Rawat             |Sumit24-prog         |<img src="/Photos/Sumit24-prog.png" width="100" />                                                                 |“Keep Going Everything you nedd will come to you at perfect time” |NA         |rawatsingh2112singh@gmail.com
