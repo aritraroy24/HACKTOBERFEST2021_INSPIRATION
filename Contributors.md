@@ -23,3 +23,4 @@
 |21         |Coding-Boon        |Coding-Boon            |<img src="./Photos/Coding-Boon.png" width="100" />                            |Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.   |freelancer |coding-boon@kaengu.ru  |
 |22 |Jared Clayborn | JaredsCode |<img src="./photos/JaredsCode.jpg" width="100" /> | "Form follows function. Don't force it" | N/A | jared.clayborn@gmail.com |
 |23         |Raja Sethi         |RAJASETHI            |<img src="./Photos/RAJASETHI.jpg" width="100" />                            |"Live your life to the fullest"   |LNMIIT |rajasethi056@gmail.com  |
+|24          |Roch Roger              |rochroger         |<img src="" />                                                                 |“Want to shine, first burn like sun” |MUET         |rochroger2@gmail.com
