@@ -20,3 +20,4 @@
 |18             |Tamanna Sharma         |Tamanna-S          |<img src= "./Photos/Tamanna-S.jpeg" width = "100" />           |"Everyday chellenge yourself."         |NA         |ts.harma2882006@gmail.com|
 |19          |Anjali Sahu             |99anjali             |<img src="./Photos/99anjali.jpg" width="100" />                              |“Shoot for the moon even if you miss u will land among stars.”                              |IIIT Allahabad                                       |sahuanjali7208@gmail.com   
 |20 |Julie Cestaro  |julieces |<img src="./Photos/julieces.png" width="100" /> |"Any sufficiently advanced technology is indistinguishable from magic" | New York University |keepingmyemailprivate@gmail.com  |
+|21         |Coding-Boon        |Coding-Boon            |<img src="./Photos/Coding-Boon.png" width="100" />                            |Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.   |freelancer |coding-boon@kaengu.ru  |
