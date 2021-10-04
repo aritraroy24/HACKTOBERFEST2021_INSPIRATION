@@ -17,5 +17,4 @@
 |15            |Saiyam Verma    |Saiyam7404            |<img src="./Photos/github Saiyam7404.jpg" width="100" /> |“You do not find the happy life. You make it.” |Thapar University,Patiala  |saiyamverma722@gmail.com   |
 |16           |Hector Quemada      |hdquemada            |<img src="./Photos/hdquemada.jpg" width="100" />                            |“It is better to light one small candle than curse the darkness.”                                  |Western Michigan University    |hdquemada@gmail.com         |
 |17          |Aditi Yadav             |adtoria              |<img src="./Photos/adtoria.jpg" width="100" />                              |“A man is his greatest enemy.”                                     |IIIT Allahabad                                       |adityyyyadav@gmail.com                 |
-|18          |Roch Roger              |rochroger         |<img src="" />                                                                 |“Want to shine, first burn like sun”
-                            |MUET                                                 |rochroger2@gmail.com
+|18          |Roch Roger              |rochroger         |<img src="" />                                                                 |“Want to shine, first burn like sun” |MUET         |rochroger2@gmail.com
