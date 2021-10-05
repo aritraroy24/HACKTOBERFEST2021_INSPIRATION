@@ -33,3 +33,4 @@
 |31 | Ganesh Duvva | ganaaduvva | <img src="./Photos/ganaaduvva.png" width="100"/> | "Education is a Powerful Weapon" | SVS Group of Institution | ganaduvva.786@gmail.com |
 |32 |Ashan Tharaka |ashan-tharaka|<img src="./Photos/ashan-tharaka.png">|"Work hard in silence, let your success be the noise."|University Of Moratuwa,Sri Lanka|ashantharaka715@gmail.com   |
 |33          |Sadaf Khushk            |sadafkhushk        |<img src="" />                                                                |“Don't carry too much fear, it will be obstacle from your side” |SAU       |sadafkhushkk@gmail.com |
+|34          |Qaimuddin               |Qaimuddin          |<img src="" />                                                                      |“All that glitters is not gold”  |Sindh University Jamshoro       |qaimuddinkhushik@gmail.com |
