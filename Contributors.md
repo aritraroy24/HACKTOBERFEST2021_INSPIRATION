@@ -31,3 +31,4 @@
 |29          |Sarthak Roy             |sarthakroy2002    |<img src="./Photos/sarthakroy2002.jpg" width="100" />                          |“Life gives one last chance to everyone, just need to see which is the last one that can change our life”                                          |Amity University Kolkata                               |sarthakroy2002@gmail.com                  |
 |30 |Anubhav Singh |singhanubhavme |<img src="./Photos/singhanubhavme.jpg" width="100" /> |"No Pain No Gain" |Graphic Era |singhanubhav58@gmail.com
 |31 | Ganesh Duvva | ganaaduvva | <img src="./Photos/ganaaduvva.png" width="100"/> | "Education is a Powerful Weapon" | SVS Group of Institution | ganaduvva.786@gmail.com |
+|32 |Ashan Tharaka |ashan-tharaka|<img src="./Photos/ashan-tharaka.png">|"Work hard in silence, let your success be the noise."|University Of Moratuwa,Sri Lanka|ashantharaka715@gmail.com   |
