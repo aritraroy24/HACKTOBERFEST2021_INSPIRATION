@@ -34,3 +34,4 @@
 |32 |Ashan Tharaka |ashan-tharaka|<img src="./Photos/ashan-tharaka.png">|"Work hard in silence, let your success be the noise."|University Of Moratuwa,Sri Lanka|ashantharaka715@gmail.com   |
 |33          |Sadaf Khushk            |sadafkhushk        |<img src="" />                                                                |“Don't carry too much fear, it will be obstacle from your side” |SAU       |sadafkhushkk@gmail.com |
 |34          |Qaimuddin               |Qaimuddin          |<img src="" />                                                                      |“All that glitters is not gold”  |Sindh University Jamshoro       |qaimuddinkhushik@gmail.com |
+|35          |Faiza                   |Faiza-8                   |<img src="" />                                                                |“Hell is empty and all the devils are here!”        |SAU       |faizakhushk526@gmail.com |
