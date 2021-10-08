@@ -38,3 +38,5 @@
 |36          |Akash Roy                   |IMF-missionimpossible                   |<img src="https://github.com/IMF-missionimpossible/HACKTOBERFEST2021_INSPIRATION/blob/main/Photos/IMF-missionimpossible.jpg?raw=true" />                                                                |“If you can dream it you can do it”        |KIIT       |007.lisencetokill@gmail.com |
 |37          |Garvit Verma                |GarvitV957            |<img src="./Photos/GarvitV957.jpg" width="100" />                      |"Kill them with your smile, burry them with your success"              |IIT Mandi                     |garvitverma89@gmail.com
 |38          |Asif Ali             | asif98209            |<img src="" />                                                                | "Be a drug, let them die for you"     | MUET SZAB        | aa4571756@gmail.com |
+|42          |Noor Muhammad        | noormuhammad-15      |<img src="" />                                    |"Work hard is silence, and let  the success be the noise"     | MUET SZAB        | noormuhammad.sw19@muetkhp.edu.pk |
+
