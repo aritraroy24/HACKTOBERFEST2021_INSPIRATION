@@ -40,3 +40,4 @@
 |38          |Asif Ali             | asif98209            |<img src="" />                                                                | "Be a drug, let them die for you"     | MUET SZAB        | aa4571756@gmail.com |
 |39       |SWAYAM JILLA           | SwayamJilla      |<img src="./Photos/swayamjilla.jpeg"   |No luxurious life is greater than moms happiness    |Padmabhushan vasantdada patil college of engineering       |swayamjilla@gmail.com    |
 |40          |Agha Haider             | Agha-Haider            |<img src="" />                                                                | "Work hard in silence, let your success speaks"     | MUET SZAB        | aghahaider662@gmail.com |
+|41          |Hosh Mohammad        | Hosh-Mohammad        |<img src="" />                                                                | "Do good for others it will come back in unexpected ways"     | MUET SZAB        | hoshmuhammad2001@gmail.com |
