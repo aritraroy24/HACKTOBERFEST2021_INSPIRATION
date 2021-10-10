@@ -39,3 +39,4 @@
 |37          |Garvit Verma                |GarvitV957            |<img src="./Photos/GarvitV957.jpg" width="100" />                      |"Kill them with your smile, burry them with your success"              |IIT Mandi                     |garvitverma89@gmail.com
 |38          |Asif Ali             | asif98209            |<img src="" />                                                                | "Be a drug, let them die for you"     | MUET SZAB        | aa4571756@gmail.com |
 |39       |SWAYAM JILLA           | SwayamJilla      |<img src="./Photos/swayamjilla.jpeg"   |No luxurious life is greater than moms happiness    |Padmabhushan vasantdada patil college of engineering       |swayamjilla@gmail.com    |
+|40          |Agha Haider             | Agha-Haider            |<img src="" />                                                                | "Work hard in silence, let your success speaks"     | MUET SZAB        | aghahaider662@gmail.com |
