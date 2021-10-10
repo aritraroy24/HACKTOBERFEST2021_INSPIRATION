@@ -43,3 +43,4 @@
 |41          |Hosh Mohammad        | Hosh-Mohammad        |<img src="" />                                                                | "Do good for others it will come back in unexpected ways"     | MUET SZAB        | hoshmuhammad2001@gmail.com |
 |42          |Naseer Shaikh        | NaseerShaikh1            |<img src="" />                                                              |"The key to success to focus on goals not obtacle"        | MUET SZAB           | naseershaikh2005@gmail.com |
 |43          |Abdul Rashed         | AbdulRasheed19       |<img src="" />                                                                | "Never Dream for Success but Work for it"     | MUET SZAB        | abdulrasheedkhaskheli786@gmail.com |
+|44          |Kajal Kaushal   |Kajal-7           |<img src="./Photos/Kajal-7.jpg /> |“Believe in yourself.” |Indian Institute of Information Technology Allahabad  |kajalkaushal700@gmail.com   |
