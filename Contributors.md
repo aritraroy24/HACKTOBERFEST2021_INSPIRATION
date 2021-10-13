@@ -35,3 +35,4 @@
 |33       |SWAYAM JILLA           | SwayamJilla      |<img src="./Photos/swayamjilla.jpeg" width="100" />   |No luxurious life is greater than moms happiness    |Padmabhushan vasantdada patil college of engineering       |swayamjilla@gmail.com    |
 |34          |Kajal Kaushal   |Kajal-7           |<img src="./Photos/Kajal-7.jpg" width="100"/> |“Believe in yourself.” |Indian Institute of Information Technology Allahabad  |kajalkaushal700@gmail.com   |
 |35          |Fahad Umar                |fahadmaheri           |<img src="./Photos/fahadmaheri.png"/>             |"Believe you can and you're halfway there"              |Shaheed Zulfiqar Ali Bhutto Campus Khairpur Mir's                    |fahadumarmaheri@gmail.com |
+|36          |Zubair Ahmed              | Zubair-12       |<img src="" />                                         |"If you want to shine, First burn like Sun"                   |MUET SZAB      |zubairahmed.sw19@muetkhp.edu.pk |
