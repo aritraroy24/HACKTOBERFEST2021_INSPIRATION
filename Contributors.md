@@ -36,3 +36,4 @@
 |34          |Kajal Kaushal   |Kajal-7           |<img src="./Photos/Kajal-7.jpg" width="100"/> |“Believe in yourself.” |Indian Institute of Information Technology Allahabad  |kajalkaushal700@gmail.com   |
 |35          |Fahad Umar                |fahadmaheri           |<img src="./Photos/fahadmaheri.png"/>             |"Believe you can and you're halfway there"              |Shaheed Zulfiqar Ali Bhutto Campus Khairpur Mir's                    |fahadumarmaheri@gmail.com |
 |36          |Anees Abbasi  |AneesAbbasi          |<img src="./Photos/AneesAbbasi.jpg" width="100"/> |“If opportunity doesn't knock, build a door.” |MUET SZAB |aneesabbasi574@gmail.com   |
+|37          |Aashita Chouhan  |aashitachouhan          |<img src="./Photos/aashitachouhan.jpg" width="100"/> |“Win from within” |IIIT Allahabad |aashita1505chouhan@gmail.com   |
