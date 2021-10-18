@@ -37,3 +37,4 @@
 |35          |Fahad Umar                |fahadmaheri           |<img src="./Photos/fahadmaheri.png"/>             |"Believe you can and you're halfway there"              |Shaheed Zulfiqar Ali Bhutto Campus Khairpur Mir's                    |fahadumarmaheri@gmail.com |
 |36          |Anees Abbasi  |AneesAbbasi          |<img src="./Photos/AneesAbbasi.jpg" width="100"/> |“If opportunity doesn't knock, build a door.” |MUET SZAB |aneesabbasi574@gmail.com   |
 |37          |Aashita Chouhan  |aashitachouhan          |<img src="./Photos/aashitachouhan.jpg" width="100"/> |“Win from within” |IIIT Allahabad |aashita1505chouhan@gmail.com   |
+|38          |Sayak Karar  |[Sayak-Karar-2581](https://github.com/Sayak-Karar-2581/)        |<img src="./Photos/Sayak-Karar-2581.jpg" width="100"/> |“Sometimes it is people no one imagines anything of, who do things no one can imagine.” |Techno International New Town |sayakarar@gmail.com   |
