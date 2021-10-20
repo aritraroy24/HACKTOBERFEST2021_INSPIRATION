@@ -1,0 +1,12 @@
+import turtle as t
+t.fillcolor("red")
+t.begin_fill()
+t.pensize(3)
+t.left(50)
+t.forward (133)
+t.circle (50,200)
+t.right(140)
+t.circle (50,200)
+t.forward (133)
+t.end_fill()
+t.done()
