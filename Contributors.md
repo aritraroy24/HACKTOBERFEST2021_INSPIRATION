@@ -41,3 +41,4 @@
 |39          |Srishti Dhir  |srishtayy         |<img src="./Photos/srishtayy.jpeg" width="100"/> |“If you fell down yesterday, stand up today.” |IIIT Allahabad |srishtidhir652@gmail.com   |
 |40          |Shrejal Singh              |shrejal99          |<img src="./Photos/Shrejal.jpg" width="100" />                          |“Rest in the END, not in the MIDDLE.”                                              |SLIET University, Punjab                             |shrejalsinghrs@gmail.com                  |
 |41          |Shaun Liew Xin Hong  |shaunliew        |<img src="./Photos/shaunliew.jpg" width="100"/> |“Always try your best to achieve your dream.” |Universiti Sains Malaysia |shaunliew20@gmail.com   |
+|42          |Ritchie Poh   |ritchiep          |<img src="./Photos/ritchiep.jpg" width="100"/>   |"Go with the flow" |Universiti Sains Malaysia |ritchiepoh@gmail.com
