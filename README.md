@@ -1,3 +1,7 @@
+# ❌THIS REPOSITORY HAS BEEN EXCLUDED FROM HACKTOBERFEST-2021 BY DIGITALOCEAN❌
+
+### PLEASE DON'T SEND ANY MORE PR. It'll not be counted in Hacktoberfest-2021
+
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritraroy24/HACKTOBERFEST_INSPIRATION?logo=github&style=social)](https://github.com/aritraroy24/HACKTOBERFEST_INSPIRATION)
 [![GitHub issues](https://img.shields.io/github/issues/aritraroy24/HACKTOBERFEST_INSPIRATION?logo=github)](https://github.com/aritraroy24/HACKTOBERFEST_INSPIRATION/issues)
 [![GitHub stars](https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST_INSPIRATION?style=social)](https://github.com/aritraroy24/HACKTOBERFEST_INSPIRATION/stargazers)
